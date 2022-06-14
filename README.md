@@ -21,5 +21,7 @@ emoji on mac command ctrl space
 use a readme in replit for notes on projects. 
 internal documentation and markdown create 
 in python doc_gen.py with create an external documentation from comments. 
+trello.com for collaboration and team work
+code fence in markdown is cool
 
 -->
