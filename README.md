@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-<!--
 **tonidavis/tonidavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +18,8 @@ https://www.markdownguide.org/cheat-sheet/
 https://emojipedia.org/
 windows key . 
 emoji on mac command ctrl space
+use a readme in replit for notes on projects. 
+internal documentation and markdown create 
+in python doc_gen.py with create an external documentation from comments. 
+
 -->
